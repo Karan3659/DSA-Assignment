@@ -1,0 +1,16 @@
+Enter Number Of Family Members:4
+Enter Family Member 1 Name:Karan Nanda
+Enter Family Member 1 Age:19
+Enter Family Member 2 Name:Brinda
+Enter Family Member 2 Age:16
+Enter Family Member 3 Name:Vaneet Nanda
+Enter Family Member 3 Age:53
+Enter Family Member 4 Name:Amita Nanda
+Enter Family Member 4 Age:50
+
+Doubly Linked list is shown below:
+
+[Name:Karan Nanda Age:19]<=>[Name:Brinda Age:16]<=>[Name:Vaneet Nanda Age:53]<=>[Name:Amita Nanda Age:50]
+Program ended with exit code: 0
+
+//Program executed on Xcode MacBook 
